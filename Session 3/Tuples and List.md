@@ -13,4 +13,6 @@ def quotient_and_remainder(x, y):
     return (q, r)
 
 (quot, rem) = quotient_and_remainder(4,5)
+'Tuple itself is returned as one single construct'
 ```
+
