@@ -15,4 +15,4 @@ def quotient_and_remainder(x, y):
 (quot, rem) = quotient_and_remainder(4,5)
 'Tuple itself is returned as one single construct'
 ```
-
+#### The slice string and tuple are the same use [] rather than ()
